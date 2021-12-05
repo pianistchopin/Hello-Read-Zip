@@ -1,5 +1,9 @@
 # hello-world
 
+## Reference package
+
+https://stuk.github.io/jszip/documentation/examples.html
+
 ## Project setup
 ```
 npm install
